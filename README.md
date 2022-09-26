@@ -1,4 +1,6 @@
 # Entertainment-World
+**Project Link: https://entertainment-world.netlify.app/**<br />
+
 **Entertainment World - API based Movie & TV Series Application, The Movie Database (TMDB) API based application:**
 - Entertainment World is a Movie & TV Series Web based Application that lets us to know the information related to the Movies and TV Series.
 - It also contains Badges that shows the top rated Movies & TV Series and also watch the trailers on the YouTube.
